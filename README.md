@@ -24,12 +24,11 @@ Full Stack MERN Developer | AI-Powered Applications | Docker & Scalable Systems
 - Real-time Applications using Socket.io
 - Secure Cloud IDE Platforms
 - MongoDB Database Optimization
-
-🎯 Currently improving:
 - System Design
 - Advanced Backend Architecture
 - Scalable Cloud Systems
 - Data Structures & Algorithms
+
 
 ---
 
