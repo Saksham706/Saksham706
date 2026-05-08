@@ -178,7 +178,7 @@ A VS Code inspired notebook and notes management application.
 # 📄 Resume
 
 <p>
-<a href="YOUR_RESUME_LINK">
+<a href="https://drive.google.com/file/d/1J25hYB_e5guHurBfpQNqECv7EQasUZ7e/view?usp=drivesdk">
 <img src="https://img.shields.io/badge/Resume-View%20Resume-blue?style=for-the-badge"/>
 </a>
 </p>
